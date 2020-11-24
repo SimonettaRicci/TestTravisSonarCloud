@@ -4,7 +4,7 @@ jdk:
 
 addons:
  sonarcloud:
-  organization: SimonettaRicci
+  organization: simonettaricci
   token: f96cbf9fe1bfb7f5a15152d3ae605b95a3b61237
 
 script:
